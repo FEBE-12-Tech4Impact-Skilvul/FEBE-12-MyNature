@@ -1,0 +1,38 @@
+*{
+    font-family: Poppins;
+}
+
+.header{
+    background-color: white;
+}
+
+.navBrand {
+    width: 100px;
+}
+
+.container-nav{
+    padding: 10px;
+    margin: 0px, 30px;
+    
+}
+
+.navLink {
+    font-weight: bold;
+    align-items: center;
+}
+
+.buttonLogin {
+    color: white;
+    background-color: #014751;
+    font-size: 16px;
+    width: 100px;
+    height: 35px;
+    border: none;
+    border-radius: 50px;
+    transition: 0.3s;
+  }
+  
+  .buttonLogin:hover {
+    background: #2b837b;
+  }
+  
